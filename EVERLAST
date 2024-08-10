@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Everlast | Montfortës</title>
+<style>
+body {
+font-family: 'Georgia', serif;
+color: #2B3D33; /* Medium Jungle Green */
+background-color: #D8D9D6; /* Light Grey */
+margin: 0;
+padding: 0;
+line-height: 1.6;
+}
+
+header {
+background-color: #78866B; /* Sage Green */
+color: #fff;
+padding: 20px;
+text-align: center;
+}
+
+header h1 {
+font-size: 3em;
+margin: 0;
+}
+
+header h2 {
+font-size: 1.5em;
+font-weight: normal;
+margin: 0;
+font-style: italic;
+}
+
+nav {
+display: flex;
+justify-content: center;
+background-color: #2B3D33; /* Medium Jungle Green */
+padding: 10px 0;
+}
+
+nav a {
+color: #fff;
+margin: 0 15px;
+text-decoration: none;
+font-weight: bold;
+}
+
+section {
+padding: 20px;
+margin: 20px auto;
+max-width: 800px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+background-color: #2B3D33; /* Medium Jungle Green */
+color: #fff;
+text-align: center;
+padding: 10px 0;
+margin-top: 20px;
+}
+
+.profile-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+}
+
+.profile-grid .profile {
+text-align: center;
+padding: 10px;
+background-color: #D8D9D6; /* Light Grey */
+border: 1px solid #78866B; /* Sage Green */
+border-radius: 8px;
+}
+
+.profile-grid .profile h3 {
+margin: 10px 0;
+}
+
+.profile-grid .profile p {
+font-size: 0.9em;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Everlast</h1>
+<h2>Since 2022 | Montfortës</h2>
+</header>
+
+<nav>
+<a href="#about">About Us</a>
+<a href="#profiles">Profile</a>
+<a href="#contact">Contact Person</a>
+<a href="#blog">Blog</a>
+</nav>
+
+<section id="about">
+<h2>Everlast Montfortës</h2>
+<p>Auspicious to meeteth all prepossessing
+ㅤㅤ bonny soul of the venerate eudaemonia universe
+ㅤㅤ <𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳> emanated phosphorescenc
+ㅤㅤ through the keen orb of the firmament. Through
+ㅤ the ornaments that circumjacent the macrocosm,
+ㅤㅤ the beaming fluorescent 𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳 is matchless.
+
+ㅤㅤㅤ ㅤ The senses of the orb moreover pity
+ㅤ ㅤ amalgamate in a stout ménage camaraderie.
+ㅤㅤ ㅤ ㅤ A stout furthemore tough soul shall at
+ㅤㅤ ㅤ each moment obnoxious thee from behind,
+ㅤㅤ ㅤholp thee standeth up, to stayeth stalwart.
+ㅤㅤㅤ ㅤ Infinite and endless 𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳, like an
+ㅤㅤ ㅤㅤ amorténta ephemeral incendiary</p>
+</section>
+
+<section id="profiles">
+<h2>Our Team</h2>
+<div class="profile-grid">
+<div class="profile">
+<h3>Nama 1</h3>
+<p>Shirley V. Pantience {Montfortës's Founder}.</p>
+</div>
+<div class="profile">
+<h3>Nama 2</h3>
+<p>Deskripsi singkat tentang orang kedua ini.</p>
+</div>
+<!-- Tambahkan hingga 12 profil di sini -->
+</div>
+</section>
+
+<section id="contact">
+<h2>Everlast's Promotion Hall</h2>
+<p>Contact Us:</p>
+<ul>
+<li>Email: <a href="mailto:everlast@example.com">everlast@example.com</a></li>
+<li>WhatsApp: <a href="https://wa.me/1234567890">+12 3456 7890</a></li>
+<li>Twitter: <a href="https://twitter.com/everlast">Twitter Everlast</a></li>
+<li>Pinterest: <a href="https://pinterest.com/everlast">Pinterest Everlast</a></li>
+</ul>
+</section>
+
+<section id="blog">
+<h2>Blog</h2>
+<p>Nantikan tulisan-tulisan mendalam kami di sini.</p>
+</section>
+
+<footer>
+<p>&copy; 2022 - 2024 Everlast | Montfortës</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Everlast | Montfortës</title>
+<style>
+body {
+font-family: 'Georgia', serif;
+color: #2B3D33; /* Medium Jungle Green */
+background-color: #D8D9D6; /* Light Grey */
+margin: 0;
+padding: 0;
+line-height: 1.6;
+}
+
+header {
+background-color: #78866B; /* Sage Green */
+color: #fff;
+padding: 20px;
+text-align: center;
+}
+
+header h1 {
+font-size: 3em;
+margin: 0;
+}
+
+header h2 {
+font-size: 1.5em;
+font-weight: normal;
+margin: 0;
+font-style: italic;
+}
+
+nav {
+display: flex;
+justify-content: center;
+background-color: #2B3D33; /* Medium Jungle Green */
+padding: 10px 0;
+}
+
+nav a {
+color: #fff;
+margin: 0 15px;
+text-decoration: none;
+font-weight: bold;
+}
+
+section {
+padding: 20px;
+margin: 20px auto;
+max-width: 800px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+background-color: #2B3D33; /* Medium Jungle Green */
+color: #fff;
+text-align: center;
+padding: 10px 0;
+margin-top: 20px;
+}
+
+.profile-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+}
+
+.profile-grid .profile {
+text-align: center;
+padding: 10px;
+background-color: #D8D9D6; /* Light Grey */
+border: 1px solid #78866B; /* Sage Green */
+border-radius: 8px;
+}
+
+.profile-grid .profile h3 {
+margin: 10px 0;
+}
+
+.profile-grid .profile p {
+font-size: 0.9em;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Everlast</h1>
+<h2>Since 2022 | Montfortës</h2>
+</header>
+
+<nav>
+<a href="#about">About Us</a>
+<a href="#profiles">Profile</a>
+<a href="#contact">Contact Person</a>
+<a href="#blog">Blog</a>
+</nav>
+
+<section id="about">
+<h2>Everlast Montfortës</h2>
+<p>Auspicious to meeteth all prepossessing
+ㅤㅤ bonny soul of the venerate eudaemonia universe
+ㅤㅤ <𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳> emanated phosphorescenc
+ㅤㅤ through the keen orb of the firmament. Through
+ㅤ the ornaments that circumjacent the macrocosm,
+ㅤㅤ the beaming fluorescent 𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳 is matchless.
+
+ㅤㅤㅤ ㅤ The senses of the orb moreover pity
+ㅤ ㅤ amalgamate in a stout ménage camaraderie.
+ㅤㅤ ㅤ ㅤ A stout furthemore tough soul shall at
+ㅤㅤ ㅤ each moment obnoxious thee from behind,
+ㅤㅤ ㅤholp thee standeth up, to stayeth stalwart.
+ㅤㅤㅤ ㅤ Infinite and endless 𝖤𝖵𝖤𝖱𝖫𝖠𝖲𝖳, like an
+ㅤㅤ ㅤㅤ amorténta ephemeral incendiary</p>
+</section>
+
+<section id="profiles">
+<h2>Our Team</h2>
+<div class="profile-grid">
+<div class="profile">
+<h3>Nama 1</h3>
+<p>Shirley V. Pantience {Montfortës's Founder}.</p>
+</div>
+<div class="profile">
+<h3>Nama 2</h3>
+<p>Deskripsi singkat tentang orang kedua ini.</p>
+</div>
+<!-- Tambahkan hingga 12 profil di sini -->
+</div>
+</section>
+
+<section id="contact">
+<h2>Everlast's Promotion Hall</h2>
+<p>Contact Us:</p>
+<ul>
+<li>Email: <a href="mailto:everlast@example.com">everlast@example.com</a></li>
+<li>WhatsApp: <a href="https://wa.me/1234567890">+12 3456 7890</a></li>
+<li>Twitter: <a href="https://twitter.com/everlast">Twitter Everlast</a></li>
+<li>Pinterest: <a href="https://pinterest.com/everlast">Pinterest Everlast</a></li>
+</ul>
+</section>
+
+<section id="blog">
+<h2>Blog</h2>
+<p>Nantikan tulisan-tulisan mendalam kami di sini.</p>
+</section>
+
+<footer>
+<p>&copy; 2022 - 2024 Everlast | Montfortës</p>
+</footer>
+
+</body>
+</html>
+
